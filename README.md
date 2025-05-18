@@ -24,5 +24,3 @@ A web application that allows users to upload research papers (PDF), extract the
 
 ---
 
-
-"# research_analyser" 
